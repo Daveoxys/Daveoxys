@@ -2,8 +2,8 @@
 
 - 📘 I'm currently learning full-stack development using JavaScript, HTML and CSS.
 - 💻 Learning React and loving it!
-- 🎓 Student enrolled on Manchester Codes Software Engineering Course.
-- 🖱️ Currently work as an IT technician.
+- 🎓 Recently completed Manchester Codes Software Engineering Course.
+- 🖱️ Currently work as an IT Engineer.
 
 
 #
