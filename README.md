@@ -1,9 +1,10 @@
-# Hello there. I'm Dave, an aspiring Software Developer.
+# Hello there. I'm Dave, a Software Developer.
 
-- 📘 I'm currently learning full-stack development using JavaScript, HTML and CSS.
-- 💻 Learning React and loving it!
-- 🎓 Recently completed Manchester Codes Software Engineering Course.
-- 🖱️ Currently work as an IT Engineer.
+- 🖱️ Currently work as a junior mobile developer working in Android studio using Java and Kotlin.
+- 💻 Learning Kotlin and loving it!
+- 🎓 Completed Manchester Codes (now Command Shift) Software Engineering Course.
+   On this course I learned full-stack development using JavaScript, HTML and CSS.
+
 
 
 #
